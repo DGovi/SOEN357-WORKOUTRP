@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-calendar_Tab);
+      }
+
+      .cls-12, .cls-2, .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        opacity: 0.001;
+      }
+
+      .cls-4 {
+        fill: #cfcfcf;
+      }
+
+      .cls-10, .cls-4, .cls-6, .cls-8 {
+        stroke: rgba(0,0,0,0);
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-6, .cls-8 {
+        font-size: 13px;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-10, .cls-11, .cls-4, .cls-6, .cls-8 {
+        font-family: NotoSans-Bold, Noto Sans;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-9 {
+        opacity: 0;
+      }
+
+      .cls-11, .cls-6 {
+        fill: #3d3d3d;
+      }
+
+      .cls-7 {
+        fill: #f2f2f2;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: #21242b;
+      }
+
+      .cls-10 {
+        fill: #3e3e3e;
+        font-size: 10px;
+        letter-spacing: 0.02em;
+        opacity: 0.495;
+      }
+
+      .cls-11 {
+        font-size: 24px;
+      }
+
+      .cls-12 {
+        stroke: #070707;
+        font-size: 25px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-13 {
+        fill: #3c3c3c;
+      }
+
+      .cls-14 {
+        fill: #fcfcfc;
+        font-size: 16px;
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-15 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        fill: none;
+      }
+
+      .cls-17 {
+        fill: #cfcdd6;
+      }
+    </style>
+    <clipPath id="clip-calendar_Tab">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="calendar_Tab" data-name="calendar Tab" class="cls-1">
+    <rect class="cls-17" width="428" height="926"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(0 855)">
+      <rect class="cls-15" width="428" height="112" rx="41"/>
+      <rect class="cls-16" x="0.5" y="0.5" width="427" height="111" rx="40.5"/>
+    </g>
+    <path id="Icon_awesome-dumbbell" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(242.5 877.25)"/>
+    <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M32.455,13.5h-10.6V2.892a.964.964,0,0,0-.964-.964H15.1a.964.964,0,0,0-.964.964V13.5H3.535a.964.964,0,0,0-.964.964v5.784a.964.964,0,0,0,.964.964h10.6v10.6a.964.964,0,0,0,.964.964h5.784a.964.964,0,0,0,.964-.964v-10.6h10.6a.964.964,0,0,0,.964-.964V14.46A.964.964,0,0,0,32.455,13.5Z" transform="translate(328.514 882.25)"/>
+    <path id="Icon_awesome-calendar-day" data-name="Icon awesome-calendar-day" d="M0,32.625A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V13.5H0Zm4.5-13.5A1.128,1.128,0,0,1,5.625,18h6.75A1.128,1.128,0,0,1,13.5,19.125v6.75A1.128,1.128,0,0,1,12.375,27H5.625A1.128,1.128,0,0,1,4.5,25.875ZM28.125,4.5H24.75V1.125A1.128,1.128,0,0,0,23.625,0h-2.25A1.128,1.128,0,0,0,20.25,1.125V4.5h-9V1.125A1.128,1.128,0,0,0,10.125,0H7.875A1.128,1.128,0,0,0,6.75,1.125V4.5H3.375A3.376,3.376,0,0,0,0,7.875V11.25H31.5V7.875A3.376,3.376,0,0,0,28.125,4.5Z" transform="translate(88.955 875)"/>
+    <path id="Icon_awesome-clock" data-name="Icon awesome-clock" d="M18,.563A17.438,17.438,0,1,0,35.438,18,17.434,17.434,0,0,0,18,.563Zm4.015,24.616-6.2-4.507a.849.849,0,0,1-.345-.682V8.156a.846.846,0,0,1,.844-.844h3.375a.846.846,0,0,1,.844.844v9.682L25,21.087a.843.843,0,0,1,.183,1.181L23.2,25A.85.85,0,0,1,22.015,25.179Z" transform="translate(163.478 879.589)"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-2" transform="translate(79 81)">
+      <rect class="cls-15" width="283" height="286"/>
+      <rect class="cls-16" x="0.5" y="0.5" width="282" height="285"/>
+    </g>
+    <g id="Calendar" transform="translate(82 87)">
+      <g id="Days" transform="translate(0 80)">
+        <g id="Day">
+          <rect id="Area" class="cls-3" width="40" height="40"/>
+          <text id="Value" class="cls-4" transform="translate(20 25)"><tspan x="-7.696" y="0">28</tspan></text>
+        </g>
+        <g id="Day-2" data-name="Day" transform="translate(120 160)">
+          <rect id="Area-2" data-name="Area" class="cls-3" width="40" height="40"/>
+          <text id="Value-2" data-name="Value" class="cls-4" transform="translate(20 25)"><tspan x="-7.696" y="0">01</tspan></text>
+        </g>
+        <g id="Day-3" data-name="Day" transform="translate(160 160)">
+          <rect id="Area-3" data-name="Area" class="cls-3" width="40" height="40"/>
+          <text id="Value-3" data-name="Value" class="cls-4" transform="translate(20 25)"><tspan x="-7.696" y="0">02</tspan></text>
+        </g>
+        <g id="Day-4" data-name="Day" transform="translate(200 160)">
+          <rect id="Area-4" data-name="Area" class="cls-3" width="40" height="40"/>
+          <text id="Value-4" data-name="Value" class="cls-4" transform="translate(20 25)"><tspan x="-7.696" y="0">03</tspan></text>
+        </g>
+        <g id="Day-5" data-name="Day" transform="translate(240 160)">
+          <rect id="Area-5" data-name="Area" class="cls-3" width="40" height="40"/>
+          <text id="Value-5" data-name="Value" class="cls-4" transform="translate(20 25)"><tspan x="-7.696" y="0">04</tspan></text>
+        </g>
+        <g id="Day-6" data-name="Day" transform="translate(40)">
+          <rect id="Area-6" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-6" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">01</tspan></text>
+        </g>
+        <g id="Day-7" data-name="Day" transform="translate(40 40)">
+          <rect id="Area-7" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-7" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">08</tspan></text>
+        </g>
+        <g id="Day-8" data-name="Day" transform="translate(40 80)">
+          <rect id="Area-8" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-8" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">15</tspan></text>
+        </g>
+        <g id="Day-9" data-name="Day" transform="translate(40 120)">
+          <rect id="Area-9" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-9" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">22</tspan></text>
+        </g>
+        <g id="Day-10" data-name="Day" transform="translate(40 160)">
+          <rect id="Area-10" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-10" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">29</tspan></text>
+        </g>
+        <g id="Day-11" data-name="Day" transform="translate(0 40)">
+          <rect id="Area-11" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-11" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">07</tspan></text>
+        </g>
+        <g id="Day-12" data-name="Day" transform="translate(0 80)">
+          <rect id="Area-12" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-12" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">14</tspan></text>
+        </g>
+        <g id="Day-13" data-name="Day" transform="translate(0 120)">
+          <rect id="Area-13" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-13" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">21</tspan></text>
+        </g>
+        <g id="Day-14" data-name="Day" transform="translate(0 160)">
+          <rect id="Area-14" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-14" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">28</tspan></text>
+        </g>
+        <g id="Day-15" data-name="Day" transform="translate(80)">
+          <rect id="Area-15" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-15" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">02</tspan></text>
+        </g>
+        <g id="Day-16" data-name="Day" transform="translate(80 40)">
+          <rect id="Area-16" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-16" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">09</tspan></text>
+        </g>
+        <g id="Day-17" data-name="Day" transform="translate(80 80)">
+          <g id="Area-17" data-name="Area" class="cls-7">
+            <rect class="cls-15" width="40" height="40"/>
+            <rect class="cls-16" x="1" y="1" width="38" height="38"/>
+          </g>
+          <text id="Value-17" data-name="Value" class="cls-8" transform="translate(20 25)"><tspan x="-7.696" y="0">16</tspan></text>
+        </g>
+        <g id="Day-18" data-name="Day" transform="translate(80 120)">
+          <rect id="Area-18" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-18" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">23</tspan></text>
+        </g>
+        <g id="Day-19" data-name="Day" transform="translate(80 160)">
+          <rect id="Area-19" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-19" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">30</tspan></text>
+        </g>
+        <g id="Day-20" data-name="Day" transform="translate(120)">
+          <rect id="Area-20" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-20" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">03</tspan></text>
+        </g>
+        <g id="Day-21" data-name="Day" transform="translate(120 40)">
+          <rect id="Area-21" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-21" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">10</tspan></text>
+        </g>
+        <g id="Day-22" data-name="Day" transform="translate(120 80)">
+          <rect id="Area-22" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-22" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">17</tspan></text>
+        </g>
+        <g id="Day-23" data-name="Day" transform="translate(120 120)">
+          <rect id="Area-23" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-23" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">24</tspan></text>
+        </g>
+        <g id="Day-24" data-name="Day" transform="translate(160)">
+          <rect id="Area-24" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-24" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">04</tspan></text>
+        </g>
+        <g id="Day-25" data-name="Day" transform="translate(160 40)">
+          <rect id="Area-25" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-25" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">11</tspan></text>
+        </g>
+        <g id="Day-26" data-name="Day" transform="translate(160 80)">
+          <rect id="Area-26" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-26" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">18</tspan></text>
+        </g>
+        <g id="Day-27" data-name="Day" transform="translate(160 120)">
+          <rect id="Area-27" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-27" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">25</tspan></text>
+        </g>
+        <g id="Day-28" data-name="Day" transform="translate(200)">
+          <rect id="Area-28" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-28" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">05</tspan></text>
+        </g>
+        <g id="Day-29" data-name="Day" transform="translate(200 40)">
+          <rect id="Area-29" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-29" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">12</tspan></text>
+        </g>
+        <g id="Day-30" data-name="Day" transform="translate(200 80)">
+          <rect id="Area-30" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-30" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">19</tspan></text>
+        </g>
+        <g id="Day-31" data-name="Day" transform="translate(200 120)">
+          <rect id="Area-31" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-31" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">26</tspan></text>
+        </g>
+        <g id="Day-32" data-name="Day" transform="translate(240)">
+          <rect id="Area-32" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-32" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">06</tspan></text>
+        </g>
+        <g id="Day-33" data-name="Day" transform="translate(240 40)">
+          <rect id="Area-33" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-33" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">13</tspan></text>
+        </g>
+        <g id="Day-34" data-name="Day" transform="translate(240 80)">
+          <rect id="Area-34" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-34" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">20</tspan></text>
+        </g>
+        <g id="Day-35" data-name="Day" transform="translate(240 120)">
+          <rect id="Area-35" data-name="Area" class="cls-5" width="40" height="40"/>
+          <text id="Value-35" data-name="Value" class="cls-6" transform="translate(20 25)"><tspan x="-7.696" y="0">27</tspan></text>
+        </g>
+      </g>
+      <g id="Week" transform="translate(0 40)">
+        <g id="weekday">
+          <rect id="area-36" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label" class="cls-10" transform="translate(20 24)"><tspan x="-10.8" y="0">SUN</tspan></text>
+        </g>
+        <g id="weekday-2" data-name="weekday" transform="translate(40)">
+          <rect id="area-37" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-2" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-12.96" y="0">MON</tspan></text>
+        </g>
+        <g id="weekday-3" data-name="weekday" transform="translate(80)">
+          <rect id="area-38" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-3" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-9.675" y="0">TUE</tspan></text>
+        </g>
+        <g id="weekday-4" data-name="weekday" transform="translate(120)">
+          <rect id="area-39" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-4" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-11.535" y="0">WED</tspan></text>
+        </g>
+        <g id="weekday-5" data-name="weekday" transform="translate(160)">
+          <rect id="area-40" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-5" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-10.7" y="0">THU</tspan></text>
+        </g>
+        <g id="weekday-6" data-name="weekday" transform="translate(200)">
+          <rect id="area-41" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-6" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-8.19" y="0">FRI</tspan></text>
+        </g>
+        <g id="weekday-7" data-name="weekday" transform="translate(240)">
+          <rect id="area-42" data-name="area" class="cls-9" width="40" height="40"/>
+          <text id="label-7" data-name="label" class="cls-10" transform="translate(20 24)"><tspan x="-8.95" y="0">SAT</tspan></text>
+        </g>
+      </g>
+      <text id="Month" class="cls-11" transform="translate(10 26)"><tspan x="0" y="0">June 2020</tspan></text>
+    </g>
+    <text id="Your_upcoming_workout_day_is:_Day_2_-_Arms" data-name="Your upcoming workout day is: 
+Day 2 - Arms" class="cls-12" transform="translate(40 527.5)"><tspan x="0" y="0">Your upcoming workout day is: </tspan><tspan x="0" y="33">Day 2 - Arms</tspan></text>
+    <text id="Todays_date:_April_1_2021" data-name="Todays date: April 1 2021" class="cls-12" transform="translate(41 426)"><tspan x="0" y="0">Todays date: April 1 2021</tspan></text>
+    <g id="Button" transform="translate(149 693)">
+      <rect id="Area-43" data-name="Area" class="cls-13" width="203" height="48" transform="translate(-32)"/>
+      <text id="Label-8" data-name="Label" class="cls-14" transform="translate(72 30)"><tspan x="-69.296" y="0">View your routine</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-calendar_Tab_6);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #716f6f;
+        font-size: 30px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-4 {
+        stroke: #3e3e3e;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #3e3e3e;
+        stroke: rgba(0,0,0,0);
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7, .cls-9 {
+        font-size: 16px;
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #787676;
+      }
+
+      .cls-8 {
+        stroke: #cfcdd6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-9 {
+        fill: #fcfcfc;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        fill: #cfcdd6;
+      }
+    </style>
+    <clipPath id="clip-calendar_Tab_6">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="calendar_Tab_6" data-name="calendar Tab – 6" class="cls-1">
+    <rect class="cls-12" width="428" height="926"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(0 855)">
+      <rect class="cls-10" width="428" height="112" rx="41"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="427" height="111" rx="40.5"/>
+    </g>
+    <path id="Icon_awesome-dumbbell" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(242.5 877.25)"/>
+    <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M32.455,13.5h-10.6V2.892a.964.964,0,0,0-.964-.964H15.1a.964.964,0,0,0-.964.964V13.5H3.535a.964.964,0,0,0-.964.964v5.784a.964.964,0,0,0,.964.964h10.6v10.6a.964.964,0,0,0,.964.964h5.784a.964.964,0,0,0,.964-.964v-10.6h10.6a.964.964,0,0,0,.964-.964V14.46A.964.964,0,0,0,32.455,13.5Z" transform="translate(328.514 878.223)"/>
+    <path id="Icon_awesome-calendar-day" data-name="Icon awesome-calendar-day" d="M0,32.625A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V13.5H0Zm4.5-13.5A1.128,1.128,0,0,1,5.625,18h6.75A1.128,1.128,0,0,1,13.5,19.125v6.75A1.128,1.128,0,0,1,12.375,27H5.625A1.128,1.128,0,0,1,4.5,25.875ZM28.125,4.5H24.75V1.125A1.128,1.128,0,0,0,23.625,0h-2.25A1.128,1.128,0,0,0,20.25,1.125V4.5h-9V1.125A1.128,1.128,0,0,0,10.125,0H7.875A1.128,1.128,0,0,0,6.75,1.125V4.5H3.375A3.376,3.376,0,0,0,0,7.875V11.25H31.5V7.875A3.376,3.376,0,0,0,28.125,4.5Z" transform="translate(88.955 875)"/>
+    <path id="Icon_awesome-clock" data-name="Icon awesome-clock" d="M18,.563A17.438,17.438,0,1,0,35.438,18,17.434,17.434,0,0,0,18,.563Zm4.015,24.616-6.2-4.507a.849.849,0,0,1-.345-.682V8.156a.846.846,0,0,1,.844-.844h3.375a.846.846,0,0,1,.844.844v9.682L25,21.087a.843.843,0,0,1,.183,1.181L23.2,25A.85.85,0,0,1,22.015,25.179Z" transform="translate(163.478 879.589)"/>
+    <text id="_" data-name="
+" class="cls-3" transform="translate(10 17)"><tspan x="0" y="31"></tspan><tspan x="0" y="70"></tspan></text>
+    <g id="Input" transform="translate(39 17)">
+      <g id="Area" class="cls-4">
+        <rect class="cls-10" width="200" height="48"/>
+        <rect class="cls-11" x="1" y="1" width="198" height="46"/>
+      </g>
+      <text id="Value" class="cls-5" transform="translate(16 30)"><tspan x="0" y="0">Routine Name</tspan></text>
+    </g>
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 217.438)"/>
+    <path id="Icon_awesome-check-circle-2" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 261.438)"/>
+    <path id="Icon_awesome-check-circle-3" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 305.438)"/>
+    <path id="Icon_awesome-check-circle-4" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 349.438)"/>
+    <path id="Icon_awesome-check-circle-5" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 393.438)"/>
+    <path id="Icon_awesome-check-circle-6" data-name="Icon awesome-check-circle" class="cls-6" d="M35.438,18A17.438,17.438,0,1,1,18,.563,17.437,17.437,0,0,1,35.438,18ZM15.983,27.233,28.921,14.3a1.125,1.125,0,0,0,0-1.591L27.33,11.114a1.125,1.125,0,0,0-1.591,0L15.188,21.665l-4.926-4.926a1.125,1.125,0,0,0-1.591,0L7.079,18.329a1.125,1.125,0,0,0,0,1.591l7.313,7.313a1.125,1.125,0,0,0,1.591,0Z" transform="translate(53.518 437.438)"/>
+    <text id="Exercise_1" data-name="Exercise 1" class="cls-7" transform="translate(156 241)"><tspan x="-38.312" y="0">Exercise 1</tspan></text>
+    <text id="Exercise_2" data-name="Exercise 2" class="cls-7" transform="translate(158 285)"><tspan x="-38.312" y="0">Exercise 2</tspan></text>
+    <text id="Exercise_3" data-name="Exercise 3" class="cls-7" transform="translate(158 329)"><tspan x="-38.312" y="0">Exercise 3</tspan></text>
+    <text id="Exercise_4" data-name="Exercise 4" class="cls-7" transform="translate(158 373)"><tspan x="-38.312" y="0">Exercise 4</tspan></text>
+    <text id="Exercise_5" data-name="Exercise 5" class="cls-7" transform="translate(156 417)"><tspan x="-38.312" y="0">Exercise 5</tspan></text>
+    <text id="Exercise_6" data-name="Exercise 6" class="cls-7" transform="translate(156 461)"><tspan x="-38.312" y="0">Exercise 6</tspan></text>
+    <path id="Icon_material-close" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 260.5)"/>
+    <path id="Icon_material-close-2" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 304.5)"/>
+    <path id="Icon_material-close-3" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 348.5)"/>
+    <path id="Icon_material-close-4" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 392.5)"/>
+    <path id="Icon_material-close-5" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 216.5)"/>
+    <path id="Icon_material-close-6" data-name="Icon material-close" class="cls-6" d="M28.5,9.615,26.385,7.5,18,15.885,9.615,7.5,7.5,9.615,15.885,18,7.5,26.385,9.615,28.5,18,20.115,26.385,28.5,28.5,26.385,20.115,18Z" transform="translate(326.5 436.5)"/>
+    <path id="Icon_feather-edit-2" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(362.257 258.743)"/>
+    <path id="Icon_feather-edit-2-2" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(358.874 216.371)"/>
+    <path id="Icon_feather-edit-2-3" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(362.257 301.115)"/>
+    <path id="Icon_feather-edit-2-4" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(362.257 343.487)"/>
+    <path id="Icon_feather-edit-2-5" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(362.257 385.859)"/>
+    <path id="Icon_feather-edit-2-6" data-name="Icon feather-edit-2" class="cls-8" d="M25.5,4.5a4.243,4.243,0,0,1,6,6L11.25,30.75,3,33l2.25-8.25Z" transform="translate(362.257 436.371)"/>
+    <g id="Button-2" data-name="Button" transform="translate(32 493.039)">
+      <path id="Area-2" data-name="Area" class="cls-6" d="M0,0H140V39H0Z" transform="translate(22 -3.039)"/>
+      <text id="Label" class="cls-9" transform="translate(92 22.961)"><tspan x="-49.12" y="0">Add Exercise</tspan></text>
+    </g>
+  </g>
+</svg>

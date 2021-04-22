@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1939" viewBox="0 0 428 1939">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Exercises);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #787676;
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 39px;
+      }
+
+      .cls-4, .cls-8 {
+        fill: none;
+      }
+
+      .cls-5 {
+        font-size: 38px;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: #cfcdd6;
+      }
+    </style>
+    <clipPath id="clip-Exercises">
+      <rect width="428" height="1939"/>
+    </clipPath>
+  </defs>
+  <g id="Exercises" class="cls-1">
+    <rect class="cls-9" width="428" height="1939"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(0 858)">
+      <rect class="cls-7" width="428" height="112" rx="41"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="427" height="111" rx="40.5"/>
+    </g>
+    <path id="Icon_awesome-dumbbell" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(242.5 880.25)"/>
+    <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M32.455,13.5h-10.6V2.892a.964.964,0,0,0-.964-.964H15.1a.964.964,0,0,0-.964.964V13.5H3.535a.964.964,0,0,0-.964.964v5.784a.964.964,0,0,0,.964.964h10.6v10.6a.964.964,0,0,0,.964.964h5.784a.964.964,0,0,0,.964-.964v-10.6h10.6a.964.964,0,0,0,.964-.964V14.46A.964.964,0,0,0,32.455,13.5Z" transform="translate(328.514 881.223)"/>
+    <path id="Icon_awesome-calendar-day" data-name="Icon awesome-calendar-day" d="M0,32.625A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V13.5H0Zm4.5-13.5A1.128,1.128,0,0,1,5.625,18h6.75A1.128,1.128,0,0,1,13.5,19.125v6.75A1.128,1.128,0,0,1,12.375,27H5.625A1.128,1.128,0,0,1,4.5,25.875ZM28.125,4.5H24.75V1.125A1.128,1.128,0,0,0,23.625,0h-2.25A1.128,1.128,0,0,0,20.25,1.125V4.5h-9V1.125A1.128,1.128,0,0,0,10.125,0H7.875A1.128,1.128,0,0,0,6.75,1.125V4.5H3.375A3.376,3.376,0,0,0,0,7.875V11.25H31.5V7.875A3.376,3.376,0,0,0,28.125,4.5Z" transform="translate(88.955 878)"/>
+    <path id="Icon_awesome-clock" data-name="Icon awesome-clock" d="M18,.563A17.438,17.438,0,1,0,35.438,18,17.434,17.434,0,0,0,18,.563Zm4.015,24.616-6.2-4.507a.849.849,0,0,1-.345-.682V8.156a.846.846,0,0,1,.844-.844h3.375a.846.846,0,0,1,.844.844v9.682L25,21.087a.843.843,0,0,1,.183,1.181L23.2,25A.85.85,0,0,1,22.015,25.179Z" transform="translate(163.478 882.589)"/>
+    <text id="Exercises-2" data-name="Exercises" class="cls-3" transform="translate(126 54)"><tspan x="-86.716" y="0">Exercises</tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-4" y1="2" x2="449" transform="translate(0.5 87.5)"/>
+    <text id="Chest" class="cls-5" transform="translate(100 153)"><tspan x="-52.326" y="0">Chest</tspan></text>
+    <text id="Dips_Bench_Press_Push_ups_Cable_Crossover_Landmine_Press_Chest_Fly_Dumbbell_Pull-Over" data-name="Dips
+Bench Press
+Push ups
+Cable Crossover
+Landmine Press
+Chest Fly
+Dumbbell Pull-Over" class="cls-6" transform="translate(48 206)"><tspan x="0" y="0">Dips</tspan><tspan x="0" y="24">Bench Press</tspan><tspan x="0" y="48">Push ups</tspan><tspan x="0" y="72">Cable Crossover</tspan><tspan x="0" y="96">Landmine Press</tspan><tspan x="0" y="120">Chest Fly</tspan><tspan x="0" y="144">Dumbbell Pull-Over</tspan></text>
+    <text id="Tricep" class="cls-5" transform="translate(104 951)"><tspan x="-56.126" y="0">Tricep</tspan></text>
+    <text id="Tricep_Extension_Cable_Tricep_OH_Extension_Cable_Tricep_OH_Extension_Dumbbell_Tricep_OH_Extension_Barbell_Diamond_Pushups_KickBacks" data-name="Tricep Extension (Cable)
+Tricep OH Extension (Cable)
+Tricep OH Extension (Dumbbell)
+Tricep OH Extension (Barbell)
+Diamond Pushups
+KickBacks" class="cls-6" transform="translate(48 1004)"><tspan x="0" y="0">Tricep Extension (Cable)</tspan><tspan x="0" y="24">Tricep OH Extension (Cable)</tspan><tspan x="0" y="48">Tricep OH Extension (Dumbbell)</tspan><tspan x="0" y="72">Tricep OH Extension (Barbell)</tspan><tspan x="0" y="96">Diamond Pushups</tspan><tspan x="0" y="120">KickBacks</tspan></text>
+    <text id="Back" class="cls-5" transform="translate(48 419)"><tspan x="0" y="0">Back</tspan></text>
+    <text id="Leg_Press_Calf_raises_Single_Leg_Press_Calf_raises_Seated_Calf_Raise_Standing_Calf_Raises" data-name="Leg Press Calf raises
+Single Leg Press Calf raises
+Seated Calf Raise
+Standing Calf Raises" class="cls-6" transform="translate(48 1512)"><tspan x="0" y="0">Leg Press Calf raises</tspan><tspan x="0" y="24">Single Leg Press Calf raises</tspan><tspan x="0" y="48">Seated Calf Raise</tspan><tspan x="0" y="72">Standing Calf Raises</tspan></text>
+    <text id="Calves" class="cls-5" transform="translate(48 1459)"><tspan x="0" y="0">Calves</tspan></text>
+    <text id="Deadlift_Pull-up_Brent-Over_row_Supported_Row_Single_Arm_Dumbbell_Inverted_Row_Lat_Pulldown" data-name="Deadlift
+Pull-up
+Brent-Over row
+Supported Row
+Single Arm Dumbbell
+Inverted Row
+Lat Pulldown" class="cls-6" transform="translate(48 472)"><tspan x="0" y="0">Deadlift</tspan><tspan x="0" y="24">Pull-up</tspan><tspan x="0" y="48">Brent-Over row</tspan><tspan x="0" y="72">Supported Row</tspan><tspan x="0" y="96">Single Arm Dumbbell</tspan><tspan x="0" y="120">Inverted Row</tspan><tspan x="0" y="144">Lat Pulldown</tspan></text>
+    <text id="Bicep" class="cls-5" transform="translate(100 685)"><tspan x="-50.521" y="0">Bicep</tspan></text>
+    <text id="Concentrated_Curls_Barbell_Curl_Hammer_Curl_Reverse_Grip_Curl_Cable_Curl_Chin_Ups_Preacher_Curl" data-name="Concentrated Curls
+Barbell Curl
+Hammer Curl
+Reverse Grip Curl
+Cable Curl
+Chin Ups
+Preacher Curl" class="cls-6" transform="translate(48 738)"><tspan x="0" y="0">Concentrated Curls</tspan><tspan x="0" y="24">Barbell Curl</tspan><tspan x="0" y="48">Hammer Curl</tspan><tspan x="0" y="72">Reverse Grip Curl</tspan><tspan x="0" y="96">Cable Curl</tspan><tspan x="0" y="120">Chin Ups</tspan><tspan x="0" y="144">Preacher Curl</tspan></text>
+    <text id="Squat_Leg_Press_Lunges_Bridges_Sissy_Squat_Leg_Extension_Leg_Flexion" data-name="Squat
+Leg Press
+Lunges 
+Bridges
+Sissy Squat
+Leg Extension
+Leg Flexion" class="cls-6" transform="translate(48 1246)"><tspan x="0" y="0">Squat</tspan><tspan x="0" y="24">Leg Press</tspan><tspan x="0" y="48">Lunges </tspan><tspan x="0" y="72">Bridges</tspan><tspan x="0" y="96">Sissy Squat</tspan><tspan x="0" y="120">Leg Extension</tspan><tspan x="0" y="144">Leg Flexion</tspan></text>
+    <text id="Quadriceps" class="cls-5" transform="translate(154 1193)"><tspan x="-105.83" y="0">Quadriceps</tspan></text>
+    <text id="Crunches_Leg_Raises_Single_Leg_Raises_Russian_Twist_Halos_Crossover_Crunches" data-name="Crunches
+Leg Raises
+Single Leg Raises
+Russian Twist
+Halos
+Crossover Crunches" class="cls-6" transform="translate(54 1713)"><tspan x="0" y="0">Crunches</tspan><tspan x="0" y="24">Leg Raises</tspan><tspan x="0" y="48">Single Leg Raises</tspan><tspan x="0" y="72">Russian Twist</tspan><tspan x="0" y="96">Halos</tspan><tspan x="0" y="120">Crossover Crunches</tspan></text>
+    <text id="Abs" class="cls-5" transform="translate(54 1660)"><tspan x="0" y="0">Abs</tspan></text>
+    <text id="Leg_Press_Calf_raises_Single_Leg_Press_Calf_raises_Seated_Calf_Raise_Standing_Calf_Raises-2" data-name="Leg Press Calf raises
+Single Leg Press Calf raises
+Seated Calf Raise
+Standing Calf Raises" class="cls-6" transform="translate(48 1512)"><tspan x="0" y="0">Leg Press Calf raises</tspan><tspan x="0" y="24">Single Leg Press Calf raises</tspan><tspan x="0" y="48">Seated Calf Raise</tspan><tspan x="0" y="72">Standing Calf Raises</tspan></text>
+    <text id="Calves-2" data-name="Calves" class="cls-5" transform="translate(48 1459)"><tspan x="0" y="0">Calves</tspan></text>
+    <text id="Leg_Press_Calf_raises_Single_Leg_Press_Calf_raises_Seated_Calf_Raise_Standing_Calf_Raises-3" data-name="Leg Press Calf raises
+Single Leg Press Calf raises
+Seated Calf Raise
+Standing Calf Raises" class="cls-6" transform="translate(48 1512)"><tspan x="0" y="0">Leg Press Calf raises</tspan><tspan x="0" y="24">Single Leg Press Calf raises</tspan><tspan x="0" y="48">Seated Calf Raise</tspan><tspan x="0" y="72">Standing Calf Raises</tspan></text>
+    <text id="Calves-3" data-name="Calves" class="cls-5" transform="translate(48 1459)"><tspan x="0" y="0">Calves</tspan></text>
+  </g>
+</svg>

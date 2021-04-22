@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-calendar_Tab_4);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-9 {
+        fill: #787676;
+      }
+
+      .cls-2 {
+        font-size: 28px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6, .cls-8, .cls-9 {
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 38px;
+      }
+
+      .cls-4 {
+        font-size: 44px;
+      }
+
+      .cls-5 {
+        fill: #3c3c3c;
+      }
+
+      .cls-6 {
+        fill: #fcfcfc;
+      }
+
+      .cls-6, .cls-8, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        stroke: #3e3e3e;
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        fill: #3e3e3e;
+        stroke: rgba(0,0,0,0);
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        fill: #cfcdd6;
+      }
+    </style>
+    <clipPath id="clip-calendar_Tab_4">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="calendar_Tab_4" data-name="calendar Tab – 4" class="cls-1">
+    <rect class="cls-12" width="428" height="926"/>
+    <text id="Exercise_1_of_6:_OH_press_Set_3_of_3_5_reps_MAX" data-name="Exercise 1 of 6: OH press
+Set 3 of 3
+5 reps MAX" class="cls-2" transform="translate(49 112)"><tspan x="0" y="0">Exercise 1 of 6: OH press</tspan><tspan x="0" y="38">Set 3 of 3</tspan><tspan x="0" y="76">5 reps MAX</tspan></text>
+    <text id="Weight_used:" data-name="Weight used:" class="cls-3" transform="translate(41 324)"><tspan x="0" y="0">Weight used:</tspan></text>
+    <text id="Reps_done:" data-name="Reps done:" class="cls-4" transform="translate(39 510)"><tspan x="0" y="0">Reps done:</tspan></text>
+    <g id="Button" transform="translate(39 695)">
+      <rect id="Area" class="cls-5" width="144" height="48"/>
+      <text id="Label" class="cls-6" transform="translate(72 30)"><tspan x="-51.304" y="0">Stop Exercise</tspan></text>
+    </g>
+    <g id="Button-2" data-name="Button" transform="translate(233 693)">
+      <rect id="Area-2" data-name="Area" class="cls-5" width="162" height="48"/>
+      <text id="Label-2" data-name="Label" class="cls-6" transform="translate(81 30)"><tspan x="-62.976" y="0">Skip Current Set</tspan></text>
+    </g>
+    <g id="Input" transform="translate(42 344)">
+      <g id="Area-3" data-name="Area" class="cls-7">
+        <rect class="cls-10" width="200" height="48"/>
+        <rect class="cls-11" x="1" y="1" width="198" height="46"/>
+      </g>
+      <text id="Value" class="cls-8" transform="translate(16 30)"><tspan x="0" y="0">Value</tspan></text>
+    </g>
+    <g id="Input-2" data-name="Input" transform="translate(42 524)">
+      <g id="Area-4" data-name="Area" class="cls-7">
+        <rect class="cls-10" width="200" height="48"/>
+        <rect class="cls-11" x="1" y="1" width="198" height="46"/>
+      </g>
+      <text id="Value-2" data-name="Value" class="cls-8" transform="translate(16 30)"><tspan x="0" y="0">Value</tspan></text>
+    </g>
+    <g id="Button-3" data-name="Button" transform="translate(39 775)">
+      <rect id="Area-5" data-name="Area" class="cls-5" width="356" height="48"/>
+      <text id="Label-3" data-name="Label" class="cls-6" transform="translate(179 30)"><tspan x="-32.936" y="0">Next Set</tspan></text>
+    </g>
+    <g id="Toggle" transform="translate(49 30)">
+      <g id="Base" class="cls-7">
+        <rect class="cls-10" width="56" height="32" rx="16"/>
+        <rect class="cls-11" x="1" y="1" width="54" height="30" rx="15"/>
+      </g>
+      <g id="Handle" class="cls-7" transform="translate(4 4)">
+        <rect class="cls-10" width="24" height="24" rx="12"/>
+        <rect class="cls-11" x="1" y="1" width="22" height="22" rx="11"/>
+      </g>
+    </g>
+    <text id="Do_Not_Disturb" data-name="Do Not Disturb" class="cls-9" transform="translate(169 52)"><tspan x="-58.472" y="0">Do Not Disturb</tspan></text>
+  </g>
+</svg>

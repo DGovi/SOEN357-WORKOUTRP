@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1127" viewBox="0 0 428 1127">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-routines);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #787676;
+      }
+
+      .cls-2 {
+        font-size: 29px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 28px;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+      }
+
+      .cls-5 {
+        fill: #3c3c3c;
+      }
+
+      .cls-6 {
+        fill: #fcfcfc;
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        fill: #cfcdd6;
+      }
+    </style>
+    <clipPath id="clip-routines">
+      <rect width="428" height="1127"/>
+    </clipPath>
+  </defs>
+  <g id="routines" class="cls-1">
+    <rect class="cls-10" width="428" height="1127"/>
+    <text id="Your_Current_Routine:" data-name="Your Current Routine:" class="cls-2" transform="translate(42 42)"><tspan x="0" y="0">Your Current Routine:</tspan></text>
+    <text id="Routine_1:_PPL" data-name="Routine 1: PPL" class="cls-3" transform="translate(50 173)"><tspan x="0" y="0">Routine 1: PPL</tspan></text>
+    <text id="Day_1_-_Push_Day_2_-_Pull_Day_3_-_Legs_Day_4_-_Rest_Day_5_-_Push_Day_6_-_Pull_Day_7_-_Legs" data-name="Day 1 - Push
+Day 2 - Pull
+Day 3 - Legs
+Day 4 - Rest
+Day 5 - Push
+Day 6 - Pull
+Day 7 - Legs" class="cls-4" transform="translate(50 216)"><tspan x="0" y="0">Day 1 - Push</tspan><tspan x="0" y="24">Day 2 - Pull</tspan><tspan x="0" y="48">Day 3 - Legs</tspan><tspan x="0" y="72">Day 4 - Rest</tspan><tspan x="0" y="96">Day 5 - Push</tspan><tspan x="0" y="120">Day 6 - Pull</tspan><tspan x="0" y="144">Day 7 - Legs</tspan></text>
+    <text id="Routine_2:_Upper_-_Lower" data-name="Routine 2: Upper - Lower" class="cls-3" transform="translate(53 469)"><tspan x="0" y="0">Routine 2: Upper - Lower</tspan></text>
+    <text id="Day_1_-_Upper_Day_2_-_Lower_Day_3_-_Rest_Day_4_-_Upper_Day_5_-_Lower_" data-name="Day 1 - Upper
+Day 2 - Lower
+Day 3 - Rest
+Day 4 - Upper
+Day 5 - Lower
+" class="cls-4" transform="translate(53 512)"><tspan x="0" y="0">Day 1 - Upper</tspan><tspan x="0" y="24">Day 2 - Lower</tspan><tspan x="0" y="48">Day 3 - Rest</tspan><tspan x="0" y="72">Day 4 - Upper</tspan><tspan x="0" y="96">Day 5 - Lower</tspan><tspan x="0" y="120"></tspan></text>
+    <text id="Routine_3:_No_Legs" data-name="Routine 3: No Legs" class="cls-3" transform="translate(52 698)"><tspan x="0" y="0">Routine 3: No Legs</tspan></text>
+    <text id="Day_1_-_Chest_Day_2_-_Back_Day_3_-_Shoulders_Day_4_-_Arms" data-name="Day 1 - Chest
+Day 2 - Back
+Day 3 - Shoulders
+Day 4 - Arms" class="cls-4" transform="translate(52 741)"><tspan x="0" y="0">Day 1 - Chest</tspan><tspan x="0" y="24">Day 2 - Back</tspan><tspan x="0" y="48">Day 3 - Shoulders</tspan><tspan x="0" y="72">Day 4 - Arms</tspan></text>
+    <text id="Routine_4" data-name="Routine 4" class="cls-3" transform="translate(53 97)"><tspan x="0" y="0">Routine 4</tspan></text>
+    <g id="Button" transform="translate(49 376)">
+      <rect id="Area" class="cls-5" width="175" height="48"/>
+      <text id="Label" class="cls-6" transform="translate(88 30)"><tspan x="-77.408" y="0">Choose This routine</tspan></text>
+    </g>
+    <g id="Button-2" data-name="Button" transform="translate(49 616)">
+      <rect id="Area-2" data-name="Area" class="cls-5" width="174" height="48"/>
+      <text id="Label-2" data-name="Label" class="cls-6" transform="translate(86 30)"><tspan x="-79.224" y="0">Choose This Routine</tspan></text>
+    </g>
+    <g id="Button-3" data-name="Button" transform="translate(49 616)">
+      <rect id="Area-3" data-name="Area" class="cls-5" width="174" height="48" transform="translate(-2 208)"/>
+      <text id="Label-3" data-name="Label" class="cls-6" transform="translate(86 240)"><tspan x="-79.224" y="0">Choose This Routine</tspan></text>
+    </g>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-7" transform="translate(0 864)">
+      <rect class="cls-8" width="428" height="112" rx="41"/>
+      <rect class="cls-9" x="0.5" y="0.5" width="427" height="111" rx="40.5"/>
+    </g>
+    <path id="Icon_awesome-dumbbell" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(241.5 877.25)"/>
+    <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M32.455,13.5h-10.6V2.892a.964.964,0,0,0-.964-.964H15.1a.964.964,0,0,0-.964.964V13.5H3.535a.964.964,0,0,0-.964.964v5.784a.964.964,0,0,0,.964.964h10.6v10.6a.964.964,0,0,0,.964.964h5.784a.964.964,0,0,0,.964-.964v-10.6h10.6a.964.964,0,0,0,.964-.964V14.46A.964.964,0,0,0,32.455,13.5Z" transform="translate(327.514 878.223)"/>
+    <path id="Icon_awesome-calendar-day" data-name="Icon awesome-calendar-day" d="M0,32.625A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V13.5H0Zm4.5-13.5A1.128,1.128,0,0,1,5.625,18h6.75A1.128,1.128,0,0,1,13.5,19.125v6.75A1.128,1.128,0,0,1,12.375,27H5.625A1.128,1.128,0,0,1,4.5,25.875ZM28.125,4.5H24.75V1.125A1.128,1.128,0,0,0,23.625,0h-2.25A1.128,1.128,0,0,0,20.25,1.125V4.5h-9V1.125A1.128,1.128,0,0,0,10.125,0H7.875A1.128,1.128,0,0,0,6.75,1.125V4.5H3.375A3.376,3.376,0,0,0,0,7.875V11.25H31.5V7.875A3.376,3.376,0,0,0,28.125,4.5Z" transform="translate(87.955 875)"/>
+    <path id="Icon_awesome-clock" data-name="Icon awesome-clock" d="M18,.563A17.438,17.438,0,1,0,35.438,18,17.434,17.434,0,0,0,18,.563Zm4.015,24.616-6.2-4.507a.849.849,0,0,1-.345-.682V8.156a.846.846,0,0,1,.844-.844h3.375a.846.846,0,0,1,.844.844v9.682L25,21.087a.843.843,0,0,1,.183,1.181L23.2,25A.85.85,0,0,1,22.015,25.179Z" transform="translate(161.063 875.563)"/>
+    <path id="Icon_awesome-dumbbell-2" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(241.5 877.25)"/>
+    <path id="Icon_awesome-dumbbell-3" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(241.5 877.25)"/>
+    <path id="Icon_awesome-dumbbell-4" data-name="Icon awesome-dumbbell" d="M7.313,6.75H3.938A1.683,1.683,0,0,0,2.25,8.438V15.75H.563A.564.564,0,0,0,0,16.313v3.375a.564.564,0,0,0,.563.563H2.25v7.313A1.683,1.683,0,0,0,3.938,29.25H7.313A1.683,1.683,0,0,0,9,27.563V8.438A1.683,1.683,0,0,0,7.313,6.75Zm37.125,9H42.75V8.438A1.683,1.683,0,0,0,41.063,6.75H37.688A1.683,1.683,0,0,0,36,8.438V27.563a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V20.25h1.688A.564.564,0,0,0,45,19.688V16.313A.564.564,0,0,0,44.438,15.75ZM32.063,2.25H28.688A1.683,1.683,0,0,0,27,3.938V15.75H18V3.938A1.683,1.683,0,0,0,16.313,2.25H12.938A1.683,1.683,0,0,0,11.25,3.938V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375A1.683,1.683,0,0,0,18,32.063V20.25h9V32.063a1.683,1.683,0,0,0,1.688,1.688h3.375a1.683,1.683,0,0,0,1.688-1.687V3.938A1.683,1.683,0,0,0,32.063,2.25Z" transform="translate(241.5 877.25)"/>
+    <g id="Button-4" data-name="Button" transform="translate(85 1005)">
+      <rect id="Area-4" data-name="Area" class="cls-5" width="215" height="48"/>
+      <text id="Label-4" data-name="Label" class="cls-6" transform="translate(108 30)"><tspan x="-96.928" y="0">Create your own Routine</tspan></text>
+    </g>
+  </g>
+</svg>
